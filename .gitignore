@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Environment
+env/
+venv/
+ENV/
+*.env
+
+# Django/Migrations
+*.log
+*.pot
+*.pyc
+*.mo
+*.bak
+*.swp
+*.tmp
+*.orig
+*.coverage
+.coverage.*
+htmlcov/
+*.db
+.DS_Store
+
+# Django static files
+staticfiles/
+media/
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Render logs or local build artifacts
+build/
